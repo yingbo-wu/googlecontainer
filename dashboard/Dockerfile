@@ -1,0 +1,2 @@
+FROM kubernetesui/dashboard:v2.0.0-beta1
+MAINTAINER yingbo.wu@accenture.com
