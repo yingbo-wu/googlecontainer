@@ -1,1 +1,1 @@
-FROM tleyden5iwx/open-ocr-2
+FROM tleyden5iwx/open-ocr-2:latest
