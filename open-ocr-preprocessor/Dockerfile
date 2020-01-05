@@ -1,1 +1,1 @@
-FROM tleyden5iwx/open-ocr-preprocessor
+FROM tleyden5iwx/open-ocr-preprocessor:latest
