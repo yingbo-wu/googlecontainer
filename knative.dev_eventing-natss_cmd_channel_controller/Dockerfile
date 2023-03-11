@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-natss/cmd/channel_controller@sha256:48933d01510eb15d05f9737f7b7ed512fffd3a05bc4705344d3294c6ab9481c3
